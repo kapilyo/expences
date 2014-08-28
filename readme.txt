@@ -1,0 +1,1 @@
+Android phonegap app to track expences, income and accounts
